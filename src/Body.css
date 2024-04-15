@@ -1,0 +1,32 @@
+div {
+    text-align: center;
+}
+
+.weather-container {
+    padding: 10em;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.weather-info {
+    background-color: #a8c9eb;
+    border-radius: 10px;
+    padding: 5em;
+
+}
+
+.weather-details {
+    display: flex;
+    align-items: center;
+}
+
+.weather-details img {
+    width: 5em;
+    /* Adjust the width as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+    margin-right: 5em;
+
+}
